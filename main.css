@@ -1,0 +1,21 @@
+html { 
+  background: url('tbp1jpg.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.head{
+	font-family: 'Raleway', sans-serif;
+	width: 100%;	
+	text-align: center;
+}
+.mini{
+	margin: 0 auto;
+	display: inline-block;
+	text-align: center;
+}
+#slink{
+	text-decoration: none;
+}
